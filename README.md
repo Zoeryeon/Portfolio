@@ -78,9 +78,9 @@ CI/CD 및 배포 환경 구성
 
 
 **`[ Github 링크 ]`**
-* [프론트엔드](https://github.com/Zoeryeon/OA-frotend.git)
-* [백엔드](https://github.com/Zoeryeon/OA-backend.git)
-* [챗봇](https://github.com/Zoeryeon/OA-chatbot.git)
+* [OALive - 프론트엔드](https://github.com/Zoeryeon/OA-frotend.git)
+* [OALive - 백엔드](https://github.com/Zoeryeon/OA-backend.git)
+* [OALive - 챗봇](https://github.com/Zoeryeon/OA-chatbot.git)
 
 
 
