@@ -61,9 +61,24 @@ CI/CD 및 배포 환경 구성
 
 
 **`[ 이슈 ]`**
+
+* 아이콘 폰트 사용하는데 유니코드를 못읽는 문제 => css에 !important로 넣어서 우선순위 조정으로 해결
+* 메인 데이터 가져오는데 vod와 oaset 각각 있는 데이터를 한꺼번에 같이 보여줘야하는 문제 => view 가상테이블로 묶어서 불러오기
+* 검색페이지 검색 수가 같아야하는데 카테고리 선택할때마다 달라지는 문제 => 처음 들어오는 값 저장해서 렌더링 되지 않도록 저장
+
+
+**`[ 사용기술 ]`**
+
+* Frontend: `Javascript`, `CSS`, `tailwind CSS`
+* Backend:
+  * Framework: `Express`
+  * Database: `MySQL`
+  * AWS: `EC2`, `S3`, `RDS`
+  * CI/CD: `GithubAction`, CodeDeploy
+
+
+**`[ Github 링크 ]`**
 * 
-
-
 
 
 
